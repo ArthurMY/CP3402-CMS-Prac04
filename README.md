@@ -15,7 +15,9 @@ I watched this video about the local host and how to build up the WordPress webp
 * [How to host a website from your own computer](https://youtu.be/euXdC0NDgac?si=WXUTRlB4Z60SFxi4)
 
 ### Estimated hours
-I spent around 1 hour completing all the parts. Including downloading and setting up with XAMPP, which a software that can 
+I spent around 1 hour completing all the parts. Including downloading and setting up with XAMPP, which a software that can display websites on the internet. 
+WordPress is a website content creation tool online. In previous weeks, I already learned how to use it. So I did not make any further learning for it this week. 
+
 ### Learning Insights
 
 
